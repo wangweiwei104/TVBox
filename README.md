@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/v/release/wangweiwei104/TVBox" />
   </a>
   <a href="https://github.com/wangweiwei104/TVBox/releases/latest">
-    <img src="https://img.shields.io/github/downloads/wangweiwei104/TVBox" />
+    <img src="https://img.shields.io/github/downloads/wangweiwei104/TVBox/total" />
   </a>
   <a href="https://github.com/wangweiwei104/TVBox/fork">
     <img src="https://img.shields.io/github/forks/wangweiwei104/TVBox" />
