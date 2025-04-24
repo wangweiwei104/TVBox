@@ -22,6 +22,9 @@ out/
 # Gradle files
 .gradle/
 build/
+/app/arm64GenericNormal/
+/app/armeabiGenericNormal/
+
 
 # Local configuration file (sdk path, etc)
 local.properties
